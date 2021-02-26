@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 
 HERE = pathlib.Path(__file__).parent
 
-VERSION = '0.1'
-PACKAGE_NAME = 'weatherPy'
+VERSION = '0.2'
+PACKAGE_NAME = 'weatherpy'
 AUTHOR = 'Sina Hassanli'
 AUTHOR_EMAIL = 'sina.hassanli@arup.com'
 URL = 'https://github.com/SinaHassanli/weatherpy'
